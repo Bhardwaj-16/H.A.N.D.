@@ -4,3 +4,11 @@
 
 An interactive 3D tool that uses computer vision–based hand tracking to let users naturally 
 manipulate and explore 3D models without physical controllers.
+
+
+# Controls
+
+<img width="427" height="322" alt="Screenshot from 2026-01-07 12-22-19" src="https://github.com/user-attachments/assets/84905703-0cc4-4220-95e3-07fe910178fe" />
+<img width="427" height="322" alt="Screenshot from 2026-01-07 12-22-25" src="https://github.com/user-attachments/assets/420feafe-d6e0-4a38-8278-d21a37142ea7" />
+<img width="427" height="322" alt="Screenshot from 2026-01-07 12-22-19" src="https://github.com/user-attachments/assets/c4d5f0e7-7531-42f6-9d7e-9efdd309409e" />
+<img width="427" height="322" alt="Screenshot from 2026-01-07 12-22-25" src="https://github.com/user-attachments/assets/f7e5bb21-27b8-4b40-a03a-0b3ba71cfe6c" />
