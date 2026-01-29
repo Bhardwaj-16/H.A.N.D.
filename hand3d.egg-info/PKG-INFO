@@ -1,33 +1,24 @@
+Metadata-Version: 2.4
+Name: hand3d
+Version: 0.3.0
+Summary: Hand-Aided Navigation for Dimensions. Hand tracking app using MediaPipe, OpenCV, and Pygame
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: mediapipe==0.10.5
+Requires-Dist: opencv-python
+Requires-Dist: pygame
+Requires-Dist: PyOpenGL
+Requires-Dist: PyOpenGL_accelerate
+
 # H.A.N.D.
 ![H.A.N.D.](https://hackatime-badge.hackclub.com/U0A39KCAT4K/H.A.N.D.)
 
 
 An interactive 3D tool that uses computer vision–based hand tracking to let users naturally 
 manipulate and explore 3D models without physical controllers.
-As of now, this project only has a 3D cube whihc is rendered and can be controlled, more model/custom model support would surely be added in the future.
-
-#Installation Instructions
-
-**Dependencies**
-Python version 3.11(Strictly Recommended)
-A webcam(of course its an Opencv project)
-
-**INSTALLATION**
-Install my python package on Python3.11 using ``` pip install hand3d ```
-
-**RUNNING IT**
-in a python file run the following code
-
-```
-import hands
-hands.hands()
-
-```
-
-And all set
 
 
-# Controls & Features
+# Controls
 <img width="1280" height="800" alt="Rotate" src="https://github.com/user-attachments/assets/a08ac8cb-724c-4c72-be2d-a7372db23f65" />
 <img width="1280" height="800" alt="Zoom" src="https://github.com/user-attachments/assets/e147d039-ea5e-498d-ad96-f86e80738c54" />
 <img width="1280" height="800" alt="DRAG_XY" src="https://github.com/user-attachments/assets/1ea35485-8084-4369-aec8-701001461f12" />

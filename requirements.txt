@@ -1,5 +1,0 @@
-mediapipe
-opencv-python
-pygame
-PyOpenGL
-PyOpenGL_accelerate
